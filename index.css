@@ -1,0 +1,77 @@
+* {
+  margin-left: 45px;
+  margin-right: 45px;
+}
+.maison {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 15vh;
+  padding-left: 30%;
+  font-size: 31px;
+}
+.logo {
+  width: 300px;
+}
+.top-text {
+  font-size: 35px;
+  font-family: "playfair Display", serif;
+  justify-content: start;
+  padding-top: 5%;
+}
+.shop button {
+  font-size: 25px;
+  margin-top: 55px;
+}
+.main_text {
+  font-size: large;
+  padding-top: 50px;
+}
+.discovery {
+  margin-left: 28%;
+}
+.bottom-text {
+  align-items: flex-start;
+  justify-items: start;
+  justify-content: space-between;
+  font-size: 40px;
+  margin-left: 27%;
+}
+
+.nav {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 55px;
+}
+.icon {
+  display: flex;
+  justify-content: end;
+  margin-left: 100%;
+  font-size: 20px;
+}
+.main-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  padding: 40px 0;
+  font-size: medium;
+  gap: 15%;
+  border-top: 1px;
+}
+.main-footer {
+  padding: 0;
+}
+.foter-icon i {
+  gap: 30px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.hero {
+  background-image: url("/images/WhatsApp Image 2026-03-31 at 22.07.34.jpeg");
+  height: 500px;
+}
